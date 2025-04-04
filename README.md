@@ -16,7 +16,7 @@ This Python project extracts structured data from bank statement PDFs and saves 
 .
 ├── main.py                 # Main script
 ├── test.pdf                # Sample PDF file
-├── test_parsed.xlsx.pdf    # Sample PDF file
+├── test_parsed.xlsx        # Sample PDF file
 └── README.md               # Project documentation
 ```
 
